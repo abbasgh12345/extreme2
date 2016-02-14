@@ -258,8 +258,8 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @extremerobos
+sodu : @unkownhacker
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -326,7 +326,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+extreme Commands list :
  
 1-banhammer list ^
  
@@ -500,10 +500,10 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @behroozYaghi
+Developer: @unkownahcker
 توسعه دهنده
 
-channel: @nod32team
+channel: @extreme
 کانال ما
 
 G00D LUCK ^_^
