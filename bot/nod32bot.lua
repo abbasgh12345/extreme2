@@ -214,6 +214,14 @@ function create_config( )
     "inpm",
     "banhammer",
     "anti_spam",
+    "well",
+    "sudo",
+    "pok",
+    "echo",
+    "filter",
+    "filterorg",
+    "getplu",
+    "quran",
     "owners",
     "arabic_lock",
     "set",
@@ -244,7 +252,7 @@ function create_config( )
     "filterword",
     "lock_join"
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -438,6 +446,9 @@ NOD32 Commands list :
  !gps
  مکان کشور , شهر مورد نظر تحت گوگل
 
+!quran
+!read {mun}
+!sura {mun}
 8-Service Provider ^
 
 !newlink
@@ -475,6 +486,9 @@ NOD32 Commands list :
 
 !share
 دریافت شماره ربات
+
+!sudo
+دریافت شماره ی صاحب بات
 
 !support
 دعوت سازنده ربات به گروه
